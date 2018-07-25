@@ -7,3 +7,5 @@ saiba mais em [williamjusten.com.br] para entender como é o curso
 Gostou do curso? Que tal um café agora?
 
 paypal
+
+teste kraken
